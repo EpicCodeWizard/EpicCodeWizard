@@ -1,4 +1,4 @@
-## Hello!
+## Hi there!
 I am Sarvesh Madullapalli, a full-stack with proficiency in Python, Typescript, and Java. I can also work with Rust and SQL. I've won over 20 hackathons and have dabbled in many different things, from frontend to backend to more recently, hardware. You can learn more about me here (WIP): [https://epiccodewizard.me/](https://epiccodewizard.me/).
 
 ## Current Projects:
@@ -18,7 +18,7 @@ I am Sarvesh Madullapalli, a full-stack with proficiency in Python, Typescript, 
       />
     </a>
   </div>
-  <div align="center">
+  <div align="center" style="margin-top: 25px">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         align="center"
