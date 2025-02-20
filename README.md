@@ -1,5 +1,5 @@
 ## Hi there!
-I am Sarvesh Madullapalli, a full-stack with proficiency in Python, Typescript, and Java. I can also work with Rust and SQL. I've won over 20 hackathons and have dabbled in many different things, from frontend to backend to more recently, hardware. You can learn more about me here (WIP): [https://epiccodewizard.me/](https://epiccodewizard.me/).
+I am Sarvesh Madullapalli, a full-stack developer with proficiency in Python, Typescript, and Java. I also work with Rust and SQL for a few projects. I've won over 20 hackathons and have dabbled in many different things, from frontend to backend to more recently, hardware. You can learn more about me here (WIP): [https://epiccodewizard.me/](https://epiccodewizard.me/).
 
 ## Current Projects:
 - ScreenExtend: A cross-platform desktop-extension solution that transforms any device into a second monitor, instantly expanding your workspace. Check out the [website](https://screenextend.app/) or [git repo](https://github.com/ScreenExtend).
