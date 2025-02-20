@@ -18,7 +18,8 @@ I am Sarvesh Madullapalli, a full-stack with proficiency in Python, Typescript, 
       />
     </a>
   </div>
-  <div align="center" style="margin-top: 50px">
+  <br />
+  <div align="center">
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img
         align="center"
