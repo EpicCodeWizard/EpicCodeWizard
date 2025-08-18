@@ -10,27 +10,13 @@ I am Sarvesh Madullapalli, a full-stack developer with proficiency in Python, Ty
 ## My Github Stats
 <div align="center">
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img
-        align="center"
-        width="50%"
-        src="https://github-readme-stats.vercel.app/api?username=EpicCodeWizard&show_icons=true&theme=nord&border_color=3da5ff&hide_border=true"
-      />
-    </a>
+    <img
+      align="center"
+      src="https://github-readme-stats.hackclub.dev/api/wakatime?username=12844&api_domain=hackatime.hackclub.com&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=nord"
+    />
   </div>
   <br />
   <div align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img
-        align="center"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=EpicCodeWizard&layout=compact&border_color=3da5ff&hide_border=true&show_icons=true&theme=nord"
-      />
-    </a>
-  </div>
-  <br />
-  <div align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img src="https://github-profile-trophy.vercel.app/?username=EpicCodeWizard&theme=nord" alt="Trophies" />
-    </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=EpicCodeWizard&theme=nord" alt="Trophies" />
   </div>
 </div>
